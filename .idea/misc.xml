@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2195" />
+        <entry key="app/src/main/res/drawable-v24/item_color.xml" value="0.212" />
+        <entry key="app/src/main/res/layout/activity_add.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/activity_date_picker.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/activity_show.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/activity_time_picker.xml" value="0.3" />
+        <entry key="app/src/main/res/layout/fragment1.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/fragment_2.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/fragment_3.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/person_item.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/todo_item.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/menu/menu_bottom.xml" value="0.37604166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.37604166666666666" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

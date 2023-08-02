@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/tab1"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/check"
+        android:title="Today" />
+
+    <item
+        android:id="@+id/tab2_1"
+        app:showAsAction="ifRoom"
+        android:enabled="false"
+        android:title="blank" />
+
+    <item
+        android:id="@+id/tab3"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/calender"
+        android:title="Calender" />
+
+</menu>
