@@ -1,4 +1,4 @@
-# **심플 퀘스트** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoos007%2FUnivAssignment-StudyProgram&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# **심플 퀘스트** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoos007%2FUnivAssignment-SimpleQuest&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 안드로이드 일정 관리 어플
 
 이 프로젝트는 대학교 3학년 2학기 모바일 프로그래밍 과목의 기말평가로 진행한 프로젝트 입니다.
