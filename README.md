@@ -77,3 +77,15 @@ Calender 페이지 - 일정이 있는 경우
 ![Calender](https://github.com/hoos007/UnivAssignment-SimpleQuest/assets/113767998/00053372-9a86-4a64-ab6e-f67dec31f49c)
 
 ## 기능구현
+1. Today 페이지
+    1. Main Activity의 Fregment1
+    2. RecyclerView
+2. Calender 페이지
+    1. Main Activity의 Fregment2
+    2. RecyclerView
+3. Add 페이지
+    1. popup형식으로 띄우기 위해서 새로운 Activity 생성
+4. DB
+    1. sqlite 사용
+    2. DB 테이블
+        <img width="592" alt="DB" src="https://github.com/hoos007/UnivAssignment-SimpleQuest/assets/113767998/790052ee-f3f2-47db-9cd5-2b91e081f8f5">
