@@ -88,4 +88,4 @@ Calender 페이지 - 일정이 있는 경우
 4. DB
     1. sqlite 사용
     2. DB 테이블
-        <img width="592" alt="DB" src="https://github.com/hoos007/UnivAssignment-SimpleQuest/assets/113767998/790052ee-f3f2-47db-9cd5-2b91e081f8f5">
+        1. <img width="592" alt="DB" src="https://github.com/hoos007/UnivAssignment-SimpleQuest/assets/113767998/790052ee-f3f2-47db-9cd5-2b91e081f8f5">
